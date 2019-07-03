@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Save Your Memories</string>
+    <string name="navigation_drawer_open">Abra a gaveta de navegação</string>
+    <string name="navigation_drawer_close">Fechar gaveta de navegação</string>
+    <string name="nav_header_title">Save Your Memories</string>
+    <string name="nav_header_subtitle">jessyanealmeida99@gmail.com</string>
+    <string name="nav_header_desc">Cabeçalho de navegação</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="menu_home">Câmera</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_slideshow">Show de slides</string>
+    <string name="menu_tools">Ferramentas</string>
+    <string name="menu_share">Compartilhar</string>
+    <string name="menu_send">Mandar</string>
+    <string name="title_activity_settings">Configurações</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messagens</string>
+    <string name="sync_header">Sincronizar</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Ação de resposta padrão</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sincronizar e-mail periodicamente</string>
+    <string name="attachment_title">Download de anexos recebidos</string>
+    <string name="attachment_summary_on"> Baixar automaticamente anexos de emails recebidos</string>
+    <string name="attachment_summary_off">Apenas baixar anexos quando solicitado manualmente
+</string>
+</resources>
