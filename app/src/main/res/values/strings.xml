@@ -20,7 +20,7 @@
     <string name="sync_header">Sincronizar</string>
 
     <!-- Messages Preferences -->
-    <string name="signature_title">Your signature</string>
+    <string name="signature_title">Sua Assinatura</string>
     <string name="reply_title">Ação de resposta padrão</string>
 
     <!-- Sync Preferences -->

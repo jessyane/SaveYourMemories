@@ -24,10 +24,10 @@
             app:useSimpleSummaryProvider="true" />
 
         <ListPreference
-            app:defaultValue="reply"
+            app:defaultValue="resposta"
             app:entries="@array/reply_entries"
             app:entryValues="@array/reply_values"
-            app:key="reply"
+            app:key="resposta"
             app:title="@string/reply_title"
             app:useSimpleSummaryProvider="true" />
 
@@ -36,12 +36,12 @@
     <PreferenceCategory app:title="@string/sync_header">
 
         <SwitchPreferenceCompat
-            app:key="sync"
+            app:key="sincronizar"
             app:title="@string/sync_title" />
 
         <SwitchPreferenceCompat
-            app:dependency="sync"
-            app:key="attachment"
+            app:dependency="sincronizar"
+            app:key="anexo"
             app:summaryOff="@string/attachment_summary_off"
             app:summaryOn="@string/attachment_summary_on"
             app:title="@string/attachment_title" />
